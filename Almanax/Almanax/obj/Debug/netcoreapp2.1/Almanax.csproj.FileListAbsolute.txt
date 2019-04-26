@@ -1,0 +1,11 @@
+C:\Users\wrhodes\source\repos\Almanax\Almanax\bin\Debug\netcoreapp2.1\Almanax.deps.json
+C:\Users\wrhodes\source\repos\Almanax\Almanax\bin\Debug\netcoreapp2.1\Almanax.runtimeconfig.json
+C:\Users\wrhodes\source\repos\Almanax\Almanax\bin\Debug\netcoreapp2.1\Almanax.runtimeconfig.dev.json
+C:\Users\wrhodes\source\repos\Almanax\Almanax\bin\Debug\netcoreapp2.1\Almanax.dll
+C:\Users\wrhodes\source\repos\Almanax\Almanax\bin\Debug\netcoreapp2.1\Almanax.pdb
+C:\Users\wrhodes\source\repos\Almanax\Almanax\obj\Debug\netcoreapp2.1\Almanax.csprojAssemblyReference.cache
+C:\Users\wrhodes\source\repos\Almanax\Almanax\obj\Debug\netcoreapp2.1\Almanax.csproj.CoreCompileInputs.cache
+C:\Users\wrhodes\source\repos\Almanax\Almanax\obj\Debug\netcoreapp2.1\Almanax.AssemblyInfoInputs.cache
+C:\Users\wrhodes\source\repos\Almanax\Almanax\obj\Debug\netcoreapp2.1\Almanax.AssemblyInfo.cs
+C:\Users\wrhodes\source\repos\Almanax\Almanax\obj\Debug\netcoreapp2.1\Almanax.dll
+C:\Users\wrhodes\source\repos\Almanax\Almanax\obj\Debug\netcoreapp2.1\Almanax.pdb
